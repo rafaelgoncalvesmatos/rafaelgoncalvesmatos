@@ -34,3 +34,10 @@ Contatos
   <a href="https://www.linkedin.com/in/rafaelgoncalvesmatos/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://wa.me/5511949924462?text=Ola%20estou%20entrando%20em%20contato%20de%20origem%20GitHub" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
 </div>
+
+<br />
+<br />
+
+Segue os meus ultimos videos no Youtube
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
