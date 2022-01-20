@@ -1,11 +1,13 @@
-## Olá meu nome é Rafael Goncalves, seja bem vindo ao meu diário de código.
+### Eu sou Rafael Goncalves, Pai, Desenvolvedor, Devops e Professor!
 
-<br>
 <div align="center">
   <a href="https://github.com/rafaelgoncalvesmatos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelgoncalvesmatos&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_title=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelgoncalvesmatos&layout=compact&langs_count=7&theme=radical&hide_title=true"/>
 </div>
+
+## Linguagens e ferramentas
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Nodejs" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
@@ -25,9 +27,9 @@
   <img align="center" alt="Rafa-vagrant" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vagrant/vagrant-original.svg">
 </div>
 
-<br>
-<div>
+### Contatos
 
+<div>
   <a href="https://www.youtube.com/c/RafaelGdeMatos/featured" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="mailto:rafael.cgid@gmail.com?subject=Ola%20estou%20entrando%20em%20contato%20de%20origem%20GitHub" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rafaelgoncalvesmatos/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
