@@ -21,6 +21,7 @@
   <br>
 </div>
 
+<br />
 
 Segue os meus ultimos videos no Youtube
 <!-- YOUTUBE:START -->
@@ -30,8 +31,6 @@ Segue os meus ultimos videos no Youtube
 - [Dominando Firewall - Parte 1](https://www.youtube.com/watch?v=JdIhkXXo_Eo)
 - [Relembrar e viver - Aula Capacity Part 03](https://www.youtube.com/watch?v=HGv2TgDixPU)
 <!-- YOUTUBE:END -->
-
-<br />
 
 <div align="left">
 
