@@ -41,4 +41,3 @@ Contatos
 Segue os meus ultimos videos no Youtube
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
-
