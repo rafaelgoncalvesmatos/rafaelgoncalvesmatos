@@ -38,6 +38,9 @@ Contatos
 <br />
 <br />
 
+
+![Snake animation](https://github.com/rafaelgoncalvesmatos/rafaelgoncalvesmatos/blob/output/github-contribution-grid-snake.svg)
+
 Segue os meus ultimos videos no Youtube
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
