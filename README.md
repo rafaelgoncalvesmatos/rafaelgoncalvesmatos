@@ -19,13 +19,7 @@
   <img align="center" alt="Rafa-mongodb" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
   <img align="center" alt="Rafa-vagrant" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vagrant/vagrant-original.svg">  
   <br>
-<div>
-<br />
-
-<!-- <br />
-<div style="display: inline_block">
-
-</div> -->
+</div>
 
 
 Segue os meus ultimos videos no Youtube
