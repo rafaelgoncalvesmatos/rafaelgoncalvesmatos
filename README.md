@@ -40,18 +40,5 @@ Contatos
 
 Segue os meus ultimos videos no Youtube
 <!-- YOUTUBE:START -->
-<<<<<<< HEAD
 <!-- YOUTUBE:END -->
 
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
-
-_generated with [Platane/snk](https://github.com/Platane/snk)_
-=======
-- [Transmissão ao vivo de Rafael G. de Matos](https://www.youtube.com/watch?v=yTFyIu71nLQ)
-- [Virtualbox - Entendo o que é vboxnet](https://www.youtube.com/watch?v=1tQd93QqCk4)
-- [Dominando Firewall - Parte 2](https://www.youtube.com/watch?v=cAATiG1-W9I)
-- [Dominando Firewall - Parte 1](https://www.youtube.com/watch?v=JdIhkXXo_Eo)
-- [Relembrar e viver - Aula Capacity Part 03](https://www.youtube.com/watch?v=HGv2TgDixPU)
-<!-- YOUTUBE:END -->
->>>>>>> b715b531a97ee7dfa543fe50db282cf84fb44058
