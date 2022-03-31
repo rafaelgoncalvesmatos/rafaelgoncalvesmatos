@@ -31,11 +31,11 @@
 
 Segue os meus ultimos videos no Youtube
 <!-- YOUTUBE:START -->
+- [Transmissão ao vivo de Rafael G. de Matos](https://www.youtube.com/watch?v=5TuVACydMhE)
 - [Transmissão ao vivo de Rafael G. de Matos](https://www.youtube.com/watch?v=K_LdYr3Fpf0)
 - [Transmissão ao vivo de Rafael G. de Matos](https://www.youtube.com/watch?v=1qcSQ73MFsw)
 - [Virtualbox - Entendo o que é vboxnet](https://www.youtube.com/watch?v=1tQd93QqCk4)
 - [Dominando Firewall - Parte 2](https://www.youtube.com/watch?v=cAATiG1-W9I)
-- [Dominando Firewall - Parte 1](https://www.youtube.com/watch?v=JdIhkXXo_Eo)
 <!-- YOUTUBE:END -->
 
 <div align="left">
