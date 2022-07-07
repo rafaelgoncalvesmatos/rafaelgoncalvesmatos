@@ -29,7 +29,7 @@
 
 <br />
 
-Segue os meus ultimos videos no Youtube
+Follow my last videos on Youtube
 <!-- YOUTUBE:START -->
 - [Transmissão ao vivo de Rafael G. de Matos](https://www.youtube.com/watch?v=ERz0-_dUleA)
 - [Virtualbox - Entendo o que é vboxnet](https://www.youtube.com/watch?v=1tQd93QqCk4)
