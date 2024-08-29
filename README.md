@@ -1,4 +1,4 @@
-## I'm Rafael Goncalves, Devops, developer and instructor!
+## I'm Rafael Goncalves, DevOps Engineer, Developer and Instructor!
 
 <div align="center">
 
