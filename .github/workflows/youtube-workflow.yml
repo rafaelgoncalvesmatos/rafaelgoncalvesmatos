@@ -9,9 +9,6 @@ on:
   push:
     branches:
     - fixyoutube
-    
-  tags:
-    - Rafaels-MacBook-Pro
 
 jobs:
   update-readme-with-youtube:
