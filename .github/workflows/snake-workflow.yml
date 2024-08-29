@@ -13,6 +13,9 @@ on:
     branches:
     - fixyoutube
     
+  tags:
+    - Rafaels-MacBook-Pro
+    
   
 
 jobs:
