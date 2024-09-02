@@ -30,11 +30,11 @@
 
 ### Check out my latest videos on YouTube!
 <!-- My Youtube channel:START -->
-- [Transmissão ao vivo de Rafael G. de Matos](https://www.youtube.com/watch?v=RFY8iFYgo4A)
-- [Transmissão ao vivo de Rafael G. de Matos](https://www.youtube.com/watch?v=8afKfuACoaE)
 - [Virtualbox - Entendo o que é vboxnet](https://www.youtube.com/watch?v=1tQd93QqCk4)
 - [Dominando Firewall - Parte 2](https://www.youtube.com/watch?v=cAATiG1-W9I)
 - [Dominando Firewall - Parte 1](https://www.youtube.com/watch?v=JdIhkXXo_Eo)
+- [Relembrar e viver - Aula Capacity Part 03](https://www.youtube.com/watch?v=HGv2TgDixPU)
+- [Relembrar e viver - Aula Capacity Part 01](https://www.youtube.com/watch?v=XfSl1P9kNhc)
 <!-- My Youtube channel:END -->
 
 <div align="left">
