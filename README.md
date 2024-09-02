@@ -28,7 +28,7 @@
 
 <br />
 
-Follow my last videos on Youtube
+### Check out my latest videos on YouTube!
 <!-- My Youtube channel:START -->
 - [Transmissão ao vivo de Rafael G. de Matos](https://www.youtube.com/watch?v=RFY8iFYgo4A)
 - [Transmissão ao vivo de Rafael G. de Matos](https://www.youtube.com/watch?v=8afKfuACoaE)
